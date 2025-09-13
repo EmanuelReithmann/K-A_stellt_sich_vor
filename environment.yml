@@ -2,6 +2,8 @@ name: example-environment
 channels:
   - conda-forge
 dependencies:
+  - python=3.10
+  - notebook=6.5.3
   - numpy
   - scipy
   - jupyter_contrib_nbextensions
