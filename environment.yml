@@ -9,4 +9,5 @@ dependencies:
   - nodejs
   - matplotlib
   - ipympl
+  - nbclassic
   - jupyter_contrib_nbextensions
