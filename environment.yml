@@ -8,4 +8,5 @@ dependencies:
   - scipy
   - nodejs
   - matplotlib
+  - ipympl
   - jupyter_contrib_nbextensions
