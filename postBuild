@@ -1,5 +1,6 @@
-pip install matplotlib
-pip install jupyter_contrib_nbextensions
+#!/bin/bash
+set -e
+
 jupyter contrib nbextension install --user
 jupyter nbextension enable collapsible_headings/main
 jupyter nbextension enable codefolding/main
