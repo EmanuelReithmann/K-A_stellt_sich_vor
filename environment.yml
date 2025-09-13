@@ -6,4 +6,5 @@ dependencies:
   - notebook=6.5.3
   - numpy
   - scipy
+  - matplotlib
   - jupyter_contrib_nbextensions
